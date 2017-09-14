@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketRecommendation", "Mar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketRecommendation.Tests", "MarketRecommendation.Tests\MarketRecommendation.Tests.csproj", "{D264FC4D-4F87-427B-819A-54196BFC586D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionUsuario", "GestionUsuario\GestionUsuario.csproj", "{7809F4EE-C44A-4A6E-9B5B-B146C266EE5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D264FC4D-4F87-427B-819A-54196BFC586D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D264FC4D-4F87-427B-819A-54196BFC586D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D264FC4D-4F87-427B-819A-54196BFC586D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7809F4EE-C44A-4A6E-9B5B-B146C266EE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7809F4EE-C44A-4A6E-9B5B-B146C266EE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7809F4EE-C44A-4A6E-9B5B-B146C266EE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7809F4EE-C44A-4A6E-9B5B-B146C266EE5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
